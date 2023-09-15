@@ -1,0 +1,23 @@
+Date Length (cm) طول التمرة (سم)	Date Diameter (cm) قطر التمرة (سم)	Date Weight (g) وزن التمرة (جم)	Pit Length (cm) طول النواة (سم)	Calories (Kcal) السعرات الحرارية (ك كالوري)	Color اللون	Class (Ajwa or Medjool) التصنيف (عجوة أو مجدول)
+continuous	continuous	continuous	continuous	continuous	Black Brown	Ajwa Medjool
+						class
+3.2	2.0	12.0	2.2	41.28	Black	Ajwa
+3.5	1.8	11.0	1.9	37.84	Black	Ajwa
+3.0	1.7	9.0	2.0	30.96	Black	Ajwa
+3.1	2.0	10.0	1.9	34.4	Black	Ajwa
+2.8	1.8	9.0	1.9	30.96	Black	Ajwa
+3.1	1.9	12.0	2.2	41.28	Black	Ajwa
+3.2	2.2	13.0	1.9	44.72	Black	Ajwa
+3.1	1.7	12.0	2.1	41.28	Black	Ajwa
+3.6	2.5	9.0	2.7	30.96	Black	Ajwa
+3.8	1.8	10.0	1.9	34.4	Black	Ajwa
+4.4	2.0	14.0	2.9	44.24	Brown	Medjool
+5.0	1.4	15.0	2.5	47.4	Brown	Medjool
+5.0	1.7	15.0	2.1	47.4	Brown	Medjool
+5.2	1.4	17.0	2.6	53.72	Brown	Medjool
+5.0	2.0	17.0	2.0	53.72	Brown	Medjool
+4.2	1.6	14.0	2.3	44.24	Brown	Medjool
+5.1	2.1	16.0	2.7	50.56	Brown	Medjool
+4.2	1.8	16.0	2.3	50.56	Brown	Medjool
+4.6	1.7	13.0	2.7	41.08	Brown	Medjool
+5.0	2.4	19.0	2.8	60.04	Brown	Medjool
